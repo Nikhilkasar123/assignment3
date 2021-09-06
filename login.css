@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8M1ZP78_2w31X1Tg7-w9c4Sv-_bStTFRFmA&usqp=CAU);
+    background-size: cover;
+}
+div {
+    display: block;
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    background-color:rgb(243, 243, 35)
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
